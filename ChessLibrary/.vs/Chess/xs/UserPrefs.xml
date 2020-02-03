@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{AC541DC7-D9E2-489E-8979-211A577D81D6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Chess/Square.cs">
+    <Files>
+      <File FileName="DemoChess/Program.cs" Line="19" Column="67" />
+      <File FileName="Chess/Figure.cs" Line="9" Column="26" />
+      <File FileName="Chess/Color.cs" Line="1" Column="1" />
+      <File FileName="Chess/Square.cs" Line="1" Column="1" />
+      <File FileName="Chess/FigureOnSquare.cs" Line="1" Column="1" />
+      <File FileName="Chess/FigureMoving.cs" Line="44" Column="2" />
+      <File FileName="Chess/Board.cs" Line="131" Column="9" />
+      <File FileName="Chess/Chess.cs" Line="46" Column="37" />
+      <File FileName="Chess/Moves.cs" Line="75" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Chess" expanded="True">
+            <Node name="Chess" expanded="True">
+              <Node name="Square.cs" selected="True" />
+            </Node>
+            <Node name="DemoChess" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DemoChess PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
