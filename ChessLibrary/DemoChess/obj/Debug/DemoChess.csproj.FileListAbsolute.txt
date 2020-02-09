@@ -6,3 +6,11 @@
 /Users/andriydavydyuk/Projects/Chess/DemoChess/obj/Debug/DemoChess.csproj.CopyComplete
 /Users/andriydavydyuk/Projects/Chess/DemoChess/obj/Debug/DemoChess.exe
 /Users/andriydavydyuk/Projects/Chess/DemoChess/obj/Debug/DemoChess.pdb
+/Users/andriydavydyuk/Projects/Chess/Chess/ChessLibrary/DemoChess/bin/Debug/DemoChess.exe
+/Users/andriydavydyuk/Projects/Chess/Chess/ChessLibrary/DemoChess/bin/Debug/DemoChess.pdb
+/Users/andriydavydyuk/Projects/Chess/Chess/ChessLibrary/DemoChess/bin/Debug/Chess.dll
+/Users/andriydavydyuk/Projects/Chess/Chess/ChessLibrary/DemoChess/bin/Debug/Chess.pdb
+/Users/andriydavydyuk/Projects/Chess/Chess/ChessLibrary/DemoChess/obj/Debug/DemoChess.csprojAssemblyReference.cache
+/Users/andriydavydyuk/Projects/Chess/Chess/ChessLibrary/DemoChess/obj/Debug/DemoChess.csproj.CopyComplete
+/Users/andriydavydyuk/Projects/Chess/Chess/ChessLibrary/DemoChess/obj/Debug/DemoChess.exe
+/Users/andriydavydyuk/Projects/Chess/Chess/ChessLibrary/DemoChess/obj/Debug/DemoChess.pdb
