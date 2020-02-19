@@ -1,0 +1,6 @@
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\ChessClient\bin\Debug\ChessClient.dll
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\ChessClient\bin\Debug\ChessClient.pdb
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\ChessClient\obj\Debug\ChessClient.csprojAssemblyReference.cache
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\ChessClient\obj\Debug\ChessClient.csproj.CoreCompileInputs.cache
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\ChessClient\obj\Debug\ChessClient.dll
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\ChessClient\obj\Debug\ChessClient.pdb

@@ -1,0 +1,9 @@
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\ConsoleChess\bin\Debug\ConsoleChess.exe
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\ConsoleChess\bin\Debug\ConsoleChess.pdb
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\ConsoleChess\bin\Debug\ChessClient.dll
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\ConsoleChess\bin\Debug\ChessClient.pdb
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\ConsoleChess\obj\Debug\ConsoleChess.csprojAssemblyReference.cache
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\ConsoleChess\obj\Debug\ConsoleChess.csproj.CoreCompileInputs.cache
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\ConsoleChess\obj\Debug\ConsoleChess.csproj.CopyComplete
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\ConsoleChess\obj\Debug\ConsoleChess.exe
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\ConsoleChess\obj\Debug\ConsoleChess.pdb

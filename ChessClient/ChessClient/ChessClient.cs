@@ -18,9 +18,11 @@ namespace ChessClient
 
         }
 
+        // public void GetCurrentGame()
         public GameInfo GetCurrentGame()
         {
-            return new GameInfo(ParseGame(CallServer()));
+             return new GameInfo(ParseGame(CallServer()));
+            //Console.WriteLine(CallServer());
             
         }
 
@@ -38,20 +40,14 @@ namespace ChessClient
         {
             NameValueCollection list = new NameValueCollection();
 
-            string pattern = @"<(\w+)\>(\w+|\n.+)";
-            
-            
-
-            foreach (Match m in Regex.Matches(json, pattern))
-            {
+            string pattern = @"""(\w+)"":""?([^,""""}]*)"; 
+            foreach (Match m in Regex.Matches(json, pattern)) 
                 if (m.Groups.Count == 3)
-                {
                     list[m.Groups[1].Value] = m.Groups[2].Value;
-                }
-               // Console.WriteLine("'{0}' found at index {1}.", m.Value, m.Index);
-                
-            }
-            return list;
+              
+                return list;
+            
+           
         }
     }
 }
