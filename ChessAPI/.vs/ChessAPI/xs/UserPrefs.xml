@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{C5FD98B6-8DFE-49EE-A9AF-ECCC803CD6D3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChessAPI/App_Start/WebApiConfig.cs">
+    <Files>
+      <File FileName="ChessAPI/Controllers/GamesController.cs" Line="17" Column="29" />
+      <File FileName="ChessAPI/Controllers/VersionController.cs" />
+      <File FileName="ChessAPI/Global.asax" />
+      <File FileName="ChessAPI/packages.config" />
+      <File FileName="ChessAPI/Web.config" />
+      <File FileName="ChessAPI/App_Start/WebApiConfig.cs" Line="1" Column="14" />
+      <File FileName="ChessAPI/Models/Game.cs" />
+      <File FileName="ChessAPI/Models/Logic.cs" />
+      <File FileName="ChessAPI/Models/ModelChessDB.cs" />
+      <File FileName="ChessAPI/Properties/AssemblyInfo.cs" />
+      <File FileName="ChessAPI/Web.Debug.config" />
+      <File FileName="ChessAPI/Web.Release.config" />
+      <File FileName="ChessAPI/appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChessAPI" expanded="True">
+            <Node name="ChessAPI" expanded="True">
+              <Node name="App_Start" expanded="True">
+                <Node name="WebApiConfig.cs" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Web.config" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ChessAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

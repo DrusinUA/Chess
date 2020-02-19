@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{4E5B2ADE-2C97-412F-92DC-C886680731DF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleChess/Program.cs">
+    <Files>
+      <File FileName="ChessClient/GameInfo.cs" Line="6" Column="12" />
+      <File FileName="ChessClient/ChessClient.cs" Line="23" Column="20" />
+      <File FileName="ConsoleChess/Program.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChessClient" expanded="True">
+            <Node name="ChessClient" expanded="True" />
+            <Node name="ConsoleChess" expanded="True">
+              <Node name="References" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ChessClient FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleChess FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
