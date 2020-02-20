@@ -19,8 +19,19 @@ namespace ConsoleChess
         {
             client = new ChessClient.ChessClient(HOST);
             Console.WriteLine(client.host);
-             Console.WriteLine(client.GetCurrentGame());
-           // client.GetCurrentGame();
+            Console.WriteLine(client.GetCurrentGame());
+            while(true)
+            {
+               
+                Console.WriteLine("Your Move: ");
+                string move = Console.ReadLine();
+                if (move == "q") return;
+                Console.Clear();
+                Console.WriteLine(client.SendMove(move));
+            }
+            
+
+
         }
     }
 }

@@ -5,13 +5,13 @@ namespace ChessClient
 {
     public struct GameInfo
     {
-        public string GameID;
+        public int GameID;
         public string FEN;
         public string Status;
 
         public GameInfo (NameValueCollection list)
         {
-            GameID = list["ID"];
+            GameID = int.Parse(list["ID"]);
             FEN = list["FEN"];
             Status = list["Status"];
         }

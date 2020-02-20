@@ -9,8 +9,8 @@ namespace ChessClient
     public class ChessClient
     {
         public string host { get; private set; }
-       // public string user { get; private set; }
-
+        // public string user { get; private set; }
+        int CurrentGameID;
         public ChessClient (string host)   //public ChessClient(string host, string user)
         {
             this.host = host;
@@ -21,11 +21,22 @@ namespace ChessClient
         // public void GetCurrentGame()
         public GameInfo GetCurrentGame()
         {
-             return new GameInfo(ParseGame(CallServer()));
+
+            GameInfo game = new GameInfo(ParseGame(CallServer()));
+            CurrentGameID = game.GameID;
+            return game;
             //Console.WriteLine(CallServer());
             
         }
+        public GameInfo SendMove (string move)
+        {
+            
+            string json = CallServer(CurrentGameID + "/" + move);
+            var list = ParseGame(json);
+            GameInfo game = new GameInfo(list);
+            return game;
 
+        }
         private string CallServer (string param = "")
         {
             WebRequest request = WebRequest.Create(host + "/" + param);
