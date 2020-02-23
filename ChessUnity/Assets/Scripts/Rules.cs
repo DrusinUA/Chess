@@ -3,16 +3,21 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Chess;
+using ChessClient;
 
-public class Rules : MonoBehaviour {
+public class Rules : MonoBehaviour
+{
+    public const string HOST = "http://localhost:50207/api/games/";
 
     DragAndDrop dad;
     Chess.Chess chess;
+    ChessClient.ChessClient client;
 
     public Rules()
     {
+        client = new ChessClient.ChessClient(HOST);
         dad = new DragAndDrop();
-        chess = new Chess.Chess();
+        chess = new Chess.Chess(client.GetCurrentGame().FEN);
 
        
     }
@@ -41,6 +46,7 @@ public class Rules : MonoBehaviour {
            
             string move = figure + from + to;
             Debug.Log(move);
+            chess = new Chess.Chess(client.SendMove(move).FEN);
             chess = chess.Move(move);
             ShowFigures();
             MarkValidFigures();

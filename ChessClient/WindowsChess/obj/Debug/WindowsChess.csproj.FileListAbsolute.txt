@@ -1,0 +1,15 @@
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\WindowsChess\bin\Debug\WindowsChess.exe.config
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\WindowsChess\bin\Debug\WindowsChess.exe
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\WindowsChess\bin\Debug\WindowsChess.pdb
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\WindowsChess\obj\Debug\WindowsChess.csprojAssemblyReference.cache
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\WindowsChess\obj\Debug\WindowsChess.FormChess.resources
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\WindowsChess\obj\Debug\WindowsChess.Properties.Resources.resources
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\WindowsChess\obj\Debug\WindowsChess.csproj.GenerateResource.cache
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\WindowsChess\obj\Debug\WindowsChess.csproj.CoreCompileInputs.cache
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\WindowsChess\obj\Debug\WindowsChess.exe
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\WindowsChess\obj\Debug\WindowsChess.pdb
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\WindowsChess\bin\Debug\Chess.dll
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\WindowsChess\bin\Debug\Chess.pdb
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\WindowsChess\obj\Debug\WindowsChess.csproj.CopyComplete
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\WindowsChess\bin\Debug\ChessClient.dll
+C:\Users\mi\Documents\GitHub\Chess\ChessClient\WindowsChess\bin\Debug\ChessClient.pdb
